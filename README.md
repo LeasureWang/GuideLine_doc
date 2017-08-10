@@ -1,2 +1,2 @@
 # SelfLearnExc_Maven
-SelfLearnExc_Maven
+describe the maven in eclipse setup or configure and how to create java project, web project...
